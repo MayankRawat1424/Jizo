@@ -1,0 +1,58 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# test path
+test path.txt
+
+# Compiled files
+*.so
+*.pyd
+*.dll
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ------------------------------
+# IDE / Editor
+# ------------------------------
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------------
+# OS Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+
+# ------------------------------
+# Audio / User Data (optional)
+# Uncomment if you don't want sample folders committed
+# ------------------------------
+# Samples/
+# audio_data/
+# exported/
+
+# ------------------------------
+# Config (optional)
+# ------------------------------
+# config.json
