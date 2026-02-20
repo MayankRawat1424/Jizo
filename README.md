@@ -3,7 +3,7 @@ This utility was designed to support manual dataset creation for audio classific
 (WAV-only workflow recommended)
 
 
-##**Features**
+**##Features**
 
 **Instant Preview** : Low-latency WAV playback (sounddevice)
 **Visual Analysis** : Waveform display, Spectrogram display
@@ -11,7 +11,7 @@ This utility was designed to support manual dataset creation for audio classific
 **Destination Playlists** : 10 saved destination folders
 
 
-##**Keyboard Workflow**
+**##Keyboard Workflow**
 
 **Key** :	Action
 **↑ / ↓** :	Navigate samples
@@ -20,14 +20,14 @@ This utility was designed to support manual dataset creation for audio classific
 **Z**	: Undo (up to 20 levels)
 
 
-##**Visual Feedback**
+**##Visual Feedback**
 
 🟢 Green : Successful copy/move
 🔴 Red : Duplicate detected (skipped) Prevents duplication of samples in folders
 🟡 Yellow : Undo
 
 
-##**Requirements**
+**##Requirements**
 
 Python 3.10+
 PySide6
